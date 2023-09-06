@@ -10,4 +10,8 @@ A repository filled with codes from my classes and studies sessions
 ### Sumary
 - [001] - Pre-processing codes in python
     - [Numerosity Reduction (Non-Parametric: Sampling)](/notebooks/001-NumerosityReduction.ipynb)
+<<<<<<< HEAD
     - [👩🏾‍💻 Activity 01](/MachineLearningCodes/notebooks/001_Activity_Pre_Processing_and_Sampling.ipynb)
+=======
+    - [👩🏾‍💻 Activity 01](/notebooks/001_Activity_Pre_Processing_and_Sampling.ipynb)
+>>>>>>> ed1573b3cd7d776ba8a65f34258878da9a436a2a
