@@ -9,8 +9,8 @@ A repository filled with codes from my classes and studies sessions
 
 ### Sumary
 - [001] - Pre-processing codes in python
-    - [🧼Cleaning and Transforming a DataSet](notebooks\001-PP_Limpeza&Transformação.ipynb)
+    - [🧼Cleaning and Transforming a DataSet](notebooks/001-PP_Limpeza&Transformação.ipynb)
     - [✨Numerosity Reduction (Non-Parametric: Sampling)](/notebooks/001-NumerosityReduction.ipynb)
     - [👩🏾‍💻 Activity 01 - Sampling](/notebooks/001_Activity_Pre_Processing_and_Sampling.ipynb)
-    - [⭐ HOG | Feature Descriptor](notebooks\001_HOG.ipynb)
+    - [⭐ HOG | Feature Descriptor](notebooks/001_HOG.ipynb)
 
