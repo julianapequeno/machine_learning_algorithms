@@ -13,11 +13,11 @@ A repository filled with codes from my classes and studies sessions
     - [✨Numerosity Reduction (Non-Parametric: Sampling)](/notebooks/001-NumerosityReduction.ipynb)
         - [👩🏾‍💻 Activity 01 - Sampling](/notebooks/001_Activity_Pre_Processing_and_Sampling.ipynb)
     - [⭐ HOG | Feature Descriptor](notebooks/001_HOG.ipynb)
-    - [🧠 CNN - Feature Vector](notebooks\001_CNN_FeatureVector.ipynb)
+    - [🧠 CNN - Feature Vector](/notebooks/001-CNN_FeatureVector.ipynb)
 - [002] - Supervisioned Models - kNN - Cross Validatory 
-    - [⛄ kNN - HOLDOUT](notebooks\002-kNN_holdout.ipynb)
-    - [🚕 kNN - k-Fold](notebooks\002-kNN_cv.ipynb)
-    - [🎉 kNN - HOLDOUT with various neighbors](notebooks\002\kNN_variousNeighbors_Holdout.ipynb)
-    - [🎭 kNN - K-fold with various neighbors](notebooks\002-kNN_variousNeighbors_k-FOLD.ipynb)
+    - [⛄ kNN - HOLDOUT](/notebooks/002-kNN_holdout.ipynb)
+    - [🚕 kNN - k-Fold](/notebooks/002-kNN_cv.ipynb)
+    - [🎉 kNN - HOLDOUT with various neighbors](/notebooks/002-kNN_variousNeighbors_Holdout.ipynb)
+    - [🎭 kNN - K-fold with various neighbors](/notebooks/002-kNN_variousNeighbors_k-FOLD.ipynb)
 
 
