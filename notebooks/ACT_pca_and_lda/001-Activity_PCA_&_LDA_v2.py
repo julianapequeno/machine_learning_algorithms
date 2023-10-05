@@ -133,4 +133,4 @@ if __name__=='__main__':
 #  print(column_types)
  # accuracy_test("Waveform_PCA",column_types)
 
-  veryfing_best_percentage("Madelon")
+  veryfing_best_percentage("/../../data/HOG_Feature_Descriptor/HOG_Transform")
