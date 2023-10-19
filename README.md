@@ -21,4 +21,5 @@ A repository filled with codes from my classes and studies sessions
     - [ 🎭  kNN - K-fold with various neighbors](/notebooks/002-kNN_variousNeighbors_k-FOLD.ipynb)
         - [🎯Activity 02 - kNN practice - Image Extractor and kNN technique](/notebooks/002-kNN_practice.ipynb)
     - [🌲 DecisionTree | Holdout](/notebooks/002-DecisionTreeClassifier.ipynb)
+    - [🌱 DecisionTree | k-Fold](/notebooks/002-DecisionTreeClassifier_KFOLD.ipynb)
 
