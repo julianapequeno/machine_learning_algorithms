@@ -14,11 +14,11 @@ A repository filled with codes from my classes and studies sessions
         - [👩🏾‍💻 Activity 01 - Sampling](/notebooks/001_Activity_Pre_Processing_and_Sampling.ipynb)
     - [⭐ HOG | Feature Descriptor](notebooks/001_HOG.ipynb)
     - [🧠 CNN - Feature Vector](/notebooks/001-CNN_FeatureVector.ipynb)
-- [002] - Supervisioned Models - kNN - Cross Validatory
+- [002] - Classifier Algorithms (Predictives) - Supervisioned Models 
     - [⛄ kNN - HOLDOUT](/notebooks/002-kNN_holdout.ipynb)
     - [🚕 kNN - k-Fold](/notebooks/002-kNN_cv.ipynb)
     - [🎉 kNN - HOLDOUT with various neighbors](/notebooks/002-kNN_variousNeighbors_Holdout.ipynb)
     - [ 🎭  kNN - K-fold with various neighbors](/notebooks/002-kNN_variousNeighbors_k-FOLD.ipynb)
         - [🎯Activity 02 - kNN practice - Image Extractor and kNN technique](/notebooks/002-kNN_practice.ipynb)
-
+    - [🌲 DecisionTree | Holdout](/notebooks/002-DecisionTreeClassifier.ipynb)
 
